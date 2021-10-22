@@ -11,7 +11,7 @@ I'm a person who likes to learn about programming, making web applications.
  
  🌱I’m currently learning Front end developer.
  
- ![Suwipa thuesayom](https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.15752-9/35671428_2126140444338376_2841851633514577920_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=GZdgbLBMsJsAX_0t_o1&_nc_ht=scontent.fbkk9-2.fna&oh=242abeaec8c5cfd3abc7ab2b0811dac7&oe=602071AD)
+ ![Suwipa thuesayom](https://scontent.fbkk28-1.fna.fbcdn.net/v/t1.6435-9/212721188_2995855917366820_5815669140940258704_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=mdylnFepLUAAX8clclV&_nc_ht=scontent.fbkk28-1.fna&oh=21ae2f285b26563b0fb4c1b1bac9de85&oe=6198D01F)
  
  
 
