@@ -1,16 +1,5 @@
 ## Hi I'm Suwipa, Welcome to my github profile. 👋
 
- ##### ชื่อ สุวิภา ถือสยม หรือเรียกสั้นๆว่า เตย ค่ะ ปัจจุบันศึกษาอยู่ที่คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่4 มหาวิทยาลัยกรุงเทพ  สนใจในด้านการพัฒนา Web Application / Mobile Application 
-###### งานอดิเรก ชอบฟังเพลง เล่นกีต้าร์บ้าง ชอบศึกษาและพัฒนาตัวเองผ่านทาง youtube 🎵
-
-
-##### Hello, I'm Suwipha Yuetsayom or Toei for short. I'm currently studying at the Faculty of Engineering. Computer Engineering and Robotics, 3rd year, Bangkok University
-I'm a person who likes to learn about programming, making web applications. 
-**I'm not very good at it, but I'm ready to learn.
-###### Hobbies: listening to music, playing guitar, studying and self-development 🎵
-
- 
- 🌱I’m currently learning Front end developer.
  
  
  
