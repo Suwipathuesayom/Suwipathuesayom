@@ -1,9 +1,7 @@
 ## Hi I'm Suwipa, Welcome to my github profile. 👋
 
 Name Miss Suwipa Thuesayom (Toey)
-Born on October 06, 1999. Currently 22 years old.
-I am a new graduate who is always intention and eager to search for new experiences. I am ready to learn and develop myself,
-so I'm  looking for an organization that can use my knowledge and abilities to the benefit of the organization.
+Born on October 06, 1999. Currently 23 years old.
 
  
  
