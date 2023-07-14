@@ -1,11 +1,6 @@
 ## Hi I'm Suwipa, Welcome to my github profile. 👋
 
-Name Miss Suwipa Thuesayom (Toey)
-Born on October 06, 1999. Currently 23 years old.
-
- 
- 
- 
+Hi, my name is Suwipa Thuesayom (Toey), I'm interested in programming and web developer, I have experience with programming 1 year with html css javascript php mysql and anothor skills, I will untiliz these skills and experience to contribute to your company and continue to improve myself all the time. take on extra responsibilities. and grow professionallity. thankyou
 
 <!--
 **Suwipathuesayom/Suwipathuesayom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
